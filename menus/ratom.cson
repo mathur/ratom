@@ -1,0 +1,12 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'ratom'
+      'submenu': [
+        { 'label': 'Start', 'command': 'ratom:start' },
+        { 'label': 'Stop', 'command': 'ratom:stop' }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "name": "ratom",
+  "main": "./ratom",
+  "version": "1.0.0",
+  "description": "rmate for Atom",
+  "repository": "https://github.com/mathur/ratom",
+  "engines": {
+    "atom": ">=0.174.0"
+  },
+  "dependencies": {
+    "mkdirp": "~0.5.0"
+  }
+}
