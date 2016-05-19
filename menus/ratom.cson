@@ -4,8 +4,8 @@
     'submenu': [
       'label': 'ratom'
       'submenu': [
-        { 'label': 'Start', 'command': 'ratom:start' },
-        { 'label': 'Stop', 'command': 'ratom:stop' }
+        { 'label': 'Start ratom', 'command': 'ratom:start' },
+        { 'label': 'Stop ratom', 'command': 'ratom:stop' }
       ]
     ]
   }
